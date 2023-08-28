@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page-top{
+    background-image: url("../imgs/header-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 85vh;
+}
+
+.logo{
+    color: #ffc800;
+    float: left;
+    margin-top:  2em;
+    margin-left: 10em;
+    font-style: italic;
+}
+.navbar{
+    float: right;
+    color: #ffc800;
+    text-decoration: none;
+    margin-top: 2em;
+    margin-right: 10em;
+}
+a{
+    text-decoration: none;
+    margin-right: 10px;
+}
+a:visited{
+    color: inherit;
+}
+
+.container{
+    text-align: center;
+    padding-top: 15em;
+    color: white;
+}
+
+.text1{
+    font-size: 2.25rem;
+    font-style: italic;
+    line-height: 2.25rem;
+    margin-bottom: 2rem;
+}
+
+.text2{
+    font-size: 4.5rem;
+    font-weight: 700;
+    line-height: 4.5rem;
+    margin-bottom: 4rem;
+}
+
+
+.btn{
+    padding: 1.25rem 2.5rem;
+    font-size: 1.125rem;
+    font-weight: 700;
+    background-color: #ffc800;
+    border-radius: 10px;
+}
+
+
+.services{
+    margin-top: 2rem;
+}
+
+.container2{
+    color: black;
+    padding: 3rem 0;
+    width: 100%;
+    padding-right: calc(1.5rem * 0.5);
+    padding-left: calc(1.5rem * 0.5);
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+    max-width: 70%;
+}
+
+
+h2{
+    font-size: 2.5rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 0;
+}
+
+h3{
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 4rem;
+    color: #6c757d;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.rows{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: calc(-1 * 0);
+    margin-right: calc(-0.5 * 1.5rem);
+    margin-left: calc(-0.5 * 1.5rem);
+    width: 100%;
+    text-align: center;
+}
+
+
+img{
+    width: 50%;
+    border-radius: 50%;
+}
+
+.row{
+    width: 30%;
+    margin-left: 30px;
+    float: left;
+}
+
+h4{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: x-large;
+    font-weight: 700;
+    text-align: center;
+}
+
+p{
+    color: #6c757d;
+    margin-bottom: 1rem;
+    margin-top: 0;
+    line-height: 1.75;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+.portfolio{
+    background-color: rgb( 248, 249, 250);
+}
+
+
+.cards{
+    width: 100%;
+    text-align: center;
+}
+
+.card{
+    width: 30%;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+
+.card img{
+    width: 100%;
+    border-radius: 0;
+    height: auto;
+}
+
+h5{
+    font-size:xx-large;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+h6{
+    color: #6c757d;
+    font-size: large;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+
+.team{
+    background-color: rgb( 248, 249, 250);
+
+}
+
+.humans{
+    width: 100%;
+    text-align: center;
+}
+.human{
+    width: 30%;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 3rem;
+}
+
+
